@@ -307,7 +307,7 @@ footer .footer_about .f_p {
     font-weight: bold;
 }
 footer .footer_about .block_to_div {
-    width: 1091.09px;
+    width: 1091px;
     height: 46px;
     background-color: rgb(221, 221, 221);
     display: inline-block;
@@ -343,7 +343,7 @@ footer .real_footer {
     position: absolute;
     background-color: rgb(221, 221, 221);
     display: block;
-    bottom: -1722px;
+    bottom: -1672px;
 }
 footer .footer_p {
     display: inline-block;
